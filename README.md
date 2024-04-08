@@ -4,22 +4,23 @@
 
 # CSS Flexbox
 
-## About the project
+## Sobre o projeto
 
-Project made with the intention of testing all the functionalities of the CSS flexbox concept.
+Projeto feito com o intuito de testar todas as funcionalidades do conceito de layout CSS Flexbox.
 
-## Project Link
+## Pré-visualização:
 
-Access the project clicking [here](https://mateussp97.github.io/flexblog/)
+Access the project clicking [here](https://luanrramos.github.io/flexblog/)
 
-## Technology
+## Tecnologia
 
-The objective of this project was to know and apply all the knowledge from the basic to the advanced about positioning and respontivity with flexbox.
-It was fully developed with:
+O objetivo desse projeto foi aplicar e lapidar todo o conhecimento desde o básico até o avançado sobre posicionamento e responsividade com o layout Flexbox.
+
+Todo o projeto desenvolvido com:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## To run
+## Para rodar em sua máquina
 
 The Visual Studio Code [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension was used to open the project.
