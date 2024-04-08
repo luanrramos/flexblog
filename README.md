@@ -23,4 +23,4 @@ Todo o projeto desenvolvido com:
 
 ## Para rodar em sua máquina
 
-The Visual Studio Code [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension was used to open the project.
+A ferramenta de edição de código Visual Studio Code(https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) foi utilizada para desenvolvimento do código.
