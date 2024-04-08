@@ -10,7 +10,7 @@ Projeto feito com o intuito de testar todas as funcionalidades do conceito de la
 
 ## Pré-visualização:
 
-Access the project clicking [here](https://luanrramos.github.io/flexblog/)
+Acesse o projeto clicando aqui: (https://luanrramos.github.io/flexblog/)
 
 ## Tecnologia
 
